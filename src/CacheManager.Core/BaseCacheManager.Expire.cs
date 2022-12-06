@@ -2,6 +2,7 @@
 using System.Linq;
 using CacheManager.Core.Logging;
 
+// comment
 namespace CacheManager.Core
 {
     public partial class BaseCacheManager<TCacheValue>
